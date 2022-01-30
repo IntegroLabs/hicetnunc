@@ -65,7 +65,6 @@ export const Header = () => {
 
   return (
     <div className={styles.outer__container}>
-      <VoteBanner />
       <header className={styles.container}>
         <div className={styles.content}>
           <Button onClick={() => handleRoute('/')}>
