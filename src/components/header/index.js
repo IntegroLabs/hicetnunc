@@ -71,7 +71,8 @@ export const Header = () => {
           <Button onClick={() => handleRoute('/')}>
             <div className={styles.logo}>
               {/* HIC LOGO */}
-              {true && (
+              TEIA
+              {false && (
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 655.77 130.78" fill={'var(--text-color)'}>
                   <path d="M692.67,605.27H649.28V518.54H605.81v86.6H562.38V474.63H692.67Z" transform="translate(-212.13 -474.5)"/>
                   <path d="M212.13,474.5H255v43.08h44V474.67h43.65V605.2H299.18V562.34H255.61V605H212.13Z" transform="translate(-212.13 -474.5)"/>

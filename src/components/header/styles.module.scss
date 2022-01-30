@@ -14,7 +14,7 @@
   background-color: var(--background-color);
   color: var(--text-color);
   transition: background-color #{$theme-duration} ease-out,
-    color #{$theme-duration} ease-out;
+  color #{$theme-duration} ease-out;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -35,6 +35,8 @@
       align-items: center;
       justify-content: center;
       height: 22.5px;
+      color: var(--text-color);
+      font-size: 22px;
 
       svg {
         height: 22.5px;
@@ -52,7 +54,7 @@
       display: flex;
       align-items: center;
 
-      & > * {
+      &>* {
         display: flex;
         align-items: center;
         font-size: 16px;
@@ -82,7 +84,7 @@
   background-color: var(--background-color);
   color: var(--text-color);
   transition: background-color #{$theme-duration} ease-out,
-    color #{$theme-duration} ease-out;
+  color #{$theme-duration} ease-out;
   z-index: 1000;
 
   .content {
@@ -101,7 +103,7 @@
           text-decoration: line-through;
         } */
 
-        & > * {
+        &>* {
           font-size: inherit;
         }
       }
