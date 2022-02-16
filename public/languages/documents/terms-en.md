@@ -1,8 +1,6 @@
 # Community Manifesto & Code of Conduct
 
-These documents were started during the hic et nunc hicathon and got worked on since then by the Teia community. It has not been voted on yet.
-
-If you want to add ideas/feedback - [feel free to add an annotation to the passage you want to discuss or write your feedback at the very end of this doc](https://docs.google.com/document/d/13QvryUcCTk0KpROMsRUk3IYf3eK_jYkH63XDmzijj7Q/edit#heading=h.c5i4goenb5ku).
+These documents were started during the hic et nunc hicathon and got worked on since then by the Teia community. Those are “living documents” and have not been voted on yet but will be put in place until approved by consensus.
 
 ALL CURRENTLY AVAILABLE (outdated) TRANSLATIONS CAN BE FOUND HERE:[https://drive.google.com/drive/folders/1tNPXJVzWeVV2Yrfb7WbJGnYudRMblyMk](https://drive.google.com/drive/folders/1tNPXJVzWeVV2Yrfb7WbJGnYudRMblyMk)
 
@@ -10,9 +8,7 @@ ALL CURRENTLY AVAILABLE (outdated) TRANSLATIONS CAN BE FOUND HERE:[https://drive
 
 1. Core Values
 2. Code of Conduct
-3. Terms & Conditions (banned accounts)
-
-*last update by An We alias @MerchantCoppola on 04.02.2022*
+3. Terms & Conditions (account restrictions)
 
 # 1. Core Values
 
@@ -20,7 +16,7 @@ ALL CURRENTLY AVAILABLE (outdated) TRANSLATIONS CAN BE FOUND HERE:[https://drive
 
 TEIA is an open, digital platform of ideas and works of creativity. It is an artwork made of artworks; Artists and collectors coming together as equal lovers of creativity in order to emancipate and democratize art.
 
-We want to elevate art, no matter how known or unknown the artist. We want to protect our art. We want to fill the blank canvas that is TEIA.TEIA is not a company. We do have founders, but we don’t have leaders. We don’t have a board, we have members.
+We want to elevate art, no matter how known or unknown the artist. We want to protect our art. We want to fill the blank canvas that is TEIA.TEIA is not a company. We are a self sustaining organization managed by the community for the community.
 
 TEIA is built and improved by its participants. We believe that we as a collective can be bigger than the sum of our members. We strive to improve TEIA in a decentralised manner. That means we build everything at once, everything follows chaotic growth. This infinite process might at times look disorganized from the outside looking in, but it isn't: The community organizes itself; chaos creates beauty.
 
@@ -152,12 +148,12 @@ Reasons for an account restriction:
 - Funding from a confirmed restricted account.
 - Funding of confirmed restricted accounts.
 - Wash trading: market manipulation through buying own OBJKTs directly or indirectly.
-- Explicit, obscene, offensive, or illegal content.
+- Minting material that glorifies human rights violations or is soley pornographic without artistic expression. This applies especially but is not limited to cases of copied pornographic content that can be found on websites which can be clearly indentified as pornographic.
 - Violates the CoC in other ways: mainly if it is overtly abusive to another group, invokes violence, or intimidates or harasses.
 
 ### Procedure if your account has been restricted
 
-Contesting restrictions can be made through the #copymints channel in the TEIA Discord. It’s important to notice that errors are possible at this stage, and we apologize for such cases. We ask users to direct such issues exclusively through the channel.
+Contesting restrictions can be made through the #copymints channel in the TEIA Discord (editors note: the copymint report channel on the Teia community discord server will be set up soon, for now copymint reports should be directed to the #report-copyminters channel of the [original "hicetnunc" Discord server](https://discord.gg/4CR2X7mh)). It’s important to notice that errors are possible at this stage, and we apologize for such cases. We ask users to direct such issues exclusively through the channel.
 
 You should not expect a warm reception if you attempt malicious action on the platform or threaten mods and admin. The team has to process many requests, some of which are less than honest.
 
